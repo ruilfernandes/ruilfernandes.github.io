@@ -1,11 +1,11 @@
 .background-fixed {
-	background-size: cover;
-	background-attachment: fixed;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 p.italic{
-	font-style: italic;
-	font-size: 12px;
+  font-style: italic;
+  font-size: 12px;
 }
 
 #rcorners1 {
@@ -16,19 +16,15 @@ p.italic{
     height: 225px; 
 }
 .main-box {
-	padding-top: 50px;
+  padding-top: 50px;
     padding-bottom: 50px;
-	background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .main-boxwh {
-	padding-top: 50px;
+  padding-top: 50px;
     padding-bottom: 50px;
-<<<<<<< HEAD
-	background-color:rgba(255, 255, 255, 0.85);
-=======
-	background-color:rgba(255, 255, 255, 0.7);
->>>>>>> ee5d08b6ff249a49f48b3f22d3030f2bcf08c2cf
+  background-color:rgba(255, 255, 255, 0.85);
 }
 
 .modal-header, h4, .close {
